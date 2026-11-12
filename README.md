@@ -8,6 +8,10 @@
 
 ---
 
+<p align="center">
+  <img src="./gif.gif" width="350" alt="Waiting">
+</p>
+
 ## 01 — The Question Behind the Feature
 
 Every application has boundaries. Some are obvious: authentication, permissions, API endpoints. Others are hidden inside features that appear completely ordinary.
