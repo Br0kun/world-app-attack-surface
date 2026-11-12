@@ -5,8 +5,11 @@
 **Component:** Custom Bundler / Bedrock Rust networking layer  
 **Research type:** Android reverse engineering and native code analysis  
 **Status:** Potential SSRF-related weakness — exploitability not established
-![Waiting](https://media4.giphy.com/media/5uDNFrOi6VwrkFKBaj/giphy.gif)
 ---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/5uDNFrOi6VwrkFKBaj/giphy.gif" width="300">
+</p>
 
 
 ## 01 — The Question Behind the Feature
