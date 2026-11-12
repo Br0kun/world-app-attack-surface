@@ -6,11 +6,6 @@
 **Research type:** Android reverse engineering and native code analysis  
 **Status:** Potential SSRF-related weakness — exploitability not established
 ---
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/5uDNFrOi6VwrkFKBaj/giphy.gif" width="350" alt="Waiting GIF">
-</p>
-
 ## 01 — The Question Behind the Feature
 
 Every application has boundaries. Some are obvious: authentication, permissions, API endpoints. Others are hidden inside features that appear completely ordinary.
