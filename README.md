@@ -7,7 +7,9 @@
 **Status:** Potential SSRF-related weakness — exploitability not established
 ---
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/5uDNFrOi6VwrkFKBaj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/waiting-meh-disapproving-5uDNFrOi6VwrkFKBaj">via GIPHY</a></p>
+<p align="center">
+  <img src="https://media4.giphy.com/media/5uDNFrOi6VwrkFKBaj/giphy.gif" width="350" alt="Waiting GIF">
+</p>
 
 ## 01 — The Question Behind the Feature
 
