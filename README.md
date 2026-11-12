@@ -6,11 +6,11 @@
 **Research type:** Android reverse engineering, native code analysis, Rust source analysis and network security  
 **Status:** Potential SSRF-related weakness — exploitability not established
 
----
-
 <p align="center">
-  <img src="./gif.gif" width="350" alt="Waiting">
+  <img src="https://raw.githubusercontent.com/Br0kun/world-app-attack-surface/main/gif.gif" width="350" alt="Waiting GIF">
 </p>
+
+---
 
 ## 01 — The Question Behind the Feature
 
